@@ -16,5 +16,22 @@
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=fff)
 ![RESTful API](https://img.shields.io/badge/-RESTful_API-005571?logo=api&logoColor=fff)
 
-### 📈 My GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=LeHoangKhanhDuy&show_icons=true&theme=tokyonight)
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=LeHoangKhanhDuy&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="Le Hoang Khanh Duy's GitHub Stats" 
+    height="160" />
+  <img 
+    src="https://streak-stats.demolab.com?user=LeHoangKhanhDuy&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    height="160" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeHoangKhanhDuy&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+    height="160" />
+</p>
